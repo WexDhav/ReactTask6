@@ -47,7 +47,7 @@ function C1()
                     <h2>Contact Details</h2>
                     <p>Phone no. - +916300206976 </p>
                     <p>Work Email - siddharth.21bce7284@vitapstudent.ac.in </p>
-                    <p>Personal Email - siddharthsutharan@gmail.com</p>
+                    <p>Personal Email - siddharthsuthaharan@gmail.com</p>
                     <p style={{paddingTop:"20px"}}>
                         <a href="https://github.com/WexDhav" target="_blank" rel="noopener noreferrer">
                             <i class="fa-brands fa-github fa-2x" style={{color:"aqua"}}></i>
